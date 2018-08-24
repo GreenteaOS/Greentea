@@ -1,0 +1,4 @@
+## Using web-alike technologies to build native apps
+
+Classic [GUI](https://en.wikipedia.org/wiki/Graphical_user_interface) technologies are known to be fast aging and non-portable, while they also are vulnerable, slow and buggy. In comparison, there is HTML - old, proven, highly portable and quick to adapt GUI building model. We are OK to drop some realtime app performance to gain nearly ultimate development opportunity - HTML is highly known very videly used tech.
+But, instead of slow and unsafe JavaScript, we propose to use much faster [Hexa programming language](Hexa.md), which looks very similar. There is also a solid bet on [Vulkan](Vulkan.md) graphics [API](https://en.wikipedia.org/wiki/Application_programming_interface), which should highly improve performance and responsiveness of apps.
