@@ -1,8 +1,8 @@
 ## Games compatibility list
 
-- [Special tools and runtimes](#Special-tools-and-runtimes)
-- [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z)
-- [Non-latin named](#Non-latin-named)
+- [Special tools and runtimes](#special-tools-and-runtimes)
+- [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
+- [Non-latin named](#non-latin-named)
 
 ---
 
@@ -12,109 +12,109 @@
 
 ---
 
-## [A](#A)
+## [A](#a)
 
 
 
-## [B](#B)
+## [B](#b)
 
 
 
-## [C](#C)
+## [C](#c)
 
 
 
-## [D](#D)
+## [D](#d)
 
 
 
-## [E](#E)
+## [E](#e)
 
 
 
-## [F](#F)
+## [F](#f)
 
 
 
-## [G](#G)
+## [G](#g)
 
 
 
-## [H](#H)
+## [H](#h)
 
 
 
-## [I](#I)
+## [I](#i)
 
 
 
-## [J](#J)
+## [J](#j)
 
 
 
-## [K](#K)
+## [K](#k)
 
 
 
-## [L](#L)
+## [L](#l)
 
 
 
-## [M](#M)
+## [M](#m)
 
 
 
-## [N](#N)
+## [N](#n)
 
 
 
-## [O](#O)
+## [O](#o)
 
 
 
-## [P](#P)
+## [P](#p)
 
 
 
-## [Q](#Q)
+## [Q](#q)
 
 
 
-## [R](#R)
+## [R](#r)
 
 
 
-## [S](#S)
+## [S](#s)
 
 
 
-## [T](#T)
+## [T](#t)
 
 
 
-## [U](#U)
+## [U](#u)
 
 
 
-## [V](#V)
+## [V](#v)
 
 
 
-## [W](#W)
+## [W](#w)
 
 
 
-## [X](#X)
+## [X](#x)
 
 
 
-## [Y](#Y)
+## [Y](#y)
 
 
 
-## [Z](#Z)
+## [Z](#z)
 
 ---
 
-## [Non-latin named](#Non-latin-named)
+## [Non-latin named](#non-latin-named)
 
