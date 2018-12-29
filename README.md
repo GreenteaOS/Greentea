@@ -5,7 +5,7 @@
 Warm and cozy, open-source operating system compatible with apps, games and drivers initially made for [Microsoft® Windows™](https://en.wikipedia.org/wiki/Microsoft_Windows)
 <br/><br/>
 
-[![Awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/GreenteaOS/Kernel)
+[![Awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/GreenteaOS/Tofita)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Greentea%20NEWS-blue.svg)](https://telegram.me/greenteaos_news)
 [![Telegram Chatroom](https://img.shields.io/badge/Telegram-Greentea%20ENG-blue.svg)](https://telegram.me/greenteaos)
 [![Join the chat at Gitter!](https://img.shields.io/badge/Gitter-Join%20Chat-47B192.svg)](https://gitter.im/GreenteaOS/Lobby)
