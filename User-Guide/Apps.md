@@ -6,8 +6,14 @@
 
 Status examples:
 
-- :boom: Whatever
-- :boom: Whatever
+- :grey_question: Not tested yet
+- :broken_heart: Not works at all
+- :boom: Crashes instantly
+- :star: — Barely works
+- :star: :star:
+- :star: :star: :star:
+- :star: :star: :star: :star:
+- :star: :star: :star: :star: :star: — Perfect
 
 ---
 
