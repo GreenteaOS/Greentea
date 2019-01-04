@@ -77,7 +77,7 @@ Visit out [Issues](https://github.com/GreenteaOS/Greentea/issues) section to div
 
 ## Kernel
 
-System's source code is hosted inside [Kernel](https://github.com/GreenteaOS/Kernel) repository. Feel free to make pull requests!
+System's source code is hosted inside [Tofita](https://github.com/GreenteaOS/Tofita) repository. Feel free to make pull requests!
 
 ## License
 
