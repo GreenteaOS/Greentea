@@ -27,6 +27,7 @@ Content rating [0+](https://en.wikipedia.org/wiki/Motion_picture_content_rating_
 
 ### User guide
 
+* :grey_question: :grey_exclamation: [Frequently asked questions](User-Guide/Frequently-Asked-Questions.md)
 * :performing_arts: [How to leave feedback or bug report](User-Guide/Issues.md)
 * :book: [How to edit wiki-pages](User-Guide/Wiki-How.md)
 * :cd: [How to download the latest version of the system](User-Guide/Download-Latest.md)
