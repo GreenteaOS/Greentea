@@ -39,7 +39,7 @@ Content rating [0+](https://en.wikipedia.org/wiki/Motion_picture_content_rating_
 Building, testing and enjoing development:
 
 * :hammer_and_wrench: [Build whole system](Developer-Guide/Build-Native.md)
-* :wine_glass: [Build within Ubuntu, macOS, and other Linux/BSD/unix-like systems](Developer-Guide/Build-Wine.md)
+* :penguin: [Build within Ubuntu, macOS, and other Linux/BSD/unix-like systems](Developer-Guide/Build-Wine.md)
 * :package: [Running VirtualBox](Developer-Guide/VirtualBox-Config.md)
 * :gear: [Recommended tools](Developer-Guide/Must-Have.md)
 * :dart: [Roadmap and goals](Developer-Guide/Roadmap.md)
