@@ -22,7 +22,7 @@ No. It is an independent OS, without Linux kernel.
 #### What makes Greentea OS so unique OS?
 
 **From developer perspective:** runtimes-based OS, aimed at strict isolation, it has no API to itself from user space.
-To achieve those goals, we created new kernel for it - Tofita.
+To achieve those goals, we created new kernel for it — Tofita.
 
 **From user perspective:** apps cannot break the system or make it slow. System updates are fast and not annoying. 
 
@@ -49,4 +49,14 @@ Git is **distrubuted**, **decentralized** and **consistent**. It is **not** poss
 
 There is no reason to worry about.
 
+#### What Windows compatibility is going to be supported?
 
+We support only officially deprecated Windows versions — [currently Windows 7](https://www.microsoft.com/en-us/windowsforbusiness/end-of-windows-7-support)
+
+This is safe and legal in many countries. We cannot, and will not, support non-deprecated Windows versions.
+
+#### Is Greentea made specifically for old hardware?
+
+Greentea builds for comparatively modern hardware only — approximately for most PCs made in the last 10+ years, counting from 2009.
+
+The oldest hardware with possibility to run is 2007 (64-bit CPUs only), but this is not guaranteed.
