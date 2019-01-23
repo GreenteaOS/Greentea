@@ -45,9 +45,15 @@ Check our [Telegram group](https://t.me/greenteaos).
 
 Yes. Git is a system, on which GitHub is based, used to store and operate on project's source code.
 
-Git is **distrubuted**, **decentralized** and **consistent**. It is **not** possible to silently edit or fake code.
+Git is **distributed**, **decentralized** and **consistent**. It is **not** possible to silently edit, hack or fake code.
 
 There is no reason to worry about.
+
+#### I've seen fake commits like [this one](https://github.com/reactos/reactos/blob/59b78b4756da02e275e35bd40a27962d5a759b69/ntoskrnl/ke/i386/exp.c#L803-L804). Are fake commits a thing?
+
+Sadly, GitHub, as any other service, has small bugs in it. The bug may **visualize** fake commits, but fakes cannot be committed into project itself! So no real code touched, albeit it looks "hacked". Also, Git, as a system, allows to set arbitrary committer names, so they sould not be considered 100% real without "Verified" badge on them.
+
+That being said, you should not follow misleading information with fake links.
 
 #### What Windows compatibility is going to be supported?
 
