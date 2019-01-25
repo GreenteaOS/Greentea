@@ -5,3 +5,8 @@
 Greentea is going to use Vulkan as much as possible: [window composition](https://en.wikipedia.org/wiki/Compositing_window_manager), Direct 3D and OpenGL rendering, image and video decoding, WebGL and so on.
 
 This would require Vulkan to be always present, so there should be at least software emulation of that graphics API.
+
+## Case study
+
+- OpenGL
+  - [VKGL - Core OpenGL over Vulkan](https://github.com/kbiElude/VKGL)
