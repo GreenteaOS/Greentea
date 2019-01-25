@@ -40,7 +40,7 @@ Building, testing and enjoing development:
 
 * :hammer_and_wrench: [Build whole system](Developer-Guide/Build-Native.md)
 * :penguin: [Build within Ubuntu, macOS, and other Linux/BSD/unix-like systems](Developer-Guide/Build-Wine.md)
-* :package: [Running VirtualBox](Developer-Guide/VirtualBox-Config.md)
+* :package: [Running in VirtualBox](Developer-Guide/VirtualBox-Config.md)
 * :gear: [Recommended tools](Developer-Guide/Must-Have.md)
 * :dart: [Roadmap and goals](Developer-Guide/Roadmap.md)
 * :sunrise: [Create bootvid-compatible bitmaps](Developer-Guide/Create-bootvid-compatible-bitmaps.md)
