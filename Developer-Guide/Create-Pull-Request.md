@@ -7,3 +7,7 @@ When you create new PR, GitHub proposes a template (constructed by our team). Pl
 ### Try to not move or rename files and folders
 
 This breaks existing PRs from other contributors and mostly unnecessary.
+
+See also:
+
+* :performing_arts: [How to leave feedback or bug report](../Issues.md)
