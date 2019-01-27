@@ -10,4 +10,4 @@ This breaks existing PRs from other contributors and mostly unnecessary.
 
 See also:
 
-* :performing_arts: [How to leave feedback or bug report](../Issues.md)
+* :performing_arts: [How to leave feedback or bug report](../User-Guide/Issues.md)
