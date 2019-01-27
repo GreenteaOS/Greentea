@@ -8,6 +8,12 @@ When you create new PR, GitHub proposes a template (constructed by our team). Pl
 
 This breaks existing PRs from other contributors and mostly unnecessary.
 
+### End-of-lines or EOLs
+
+- Finish every file with empty line
+- Use Windows `crlf` of `\r\n` eols for new files, and keep eols of existing ones
+- If you will change eol format of existing file it will look messed up in git (and rejected)
+
 See also:
 
 * :performing_arts: [How to leave feedback or bug report](../User-Guide/Issues.md)
