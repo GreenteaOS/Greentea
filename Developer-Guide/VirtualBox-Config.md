@@ -14,3 +14,8 @@ You may also need to enable [the VT-x option in the BIOS or UEFI](https://www.sh
 * There you also need to download the `VM VirtualBox Extension Pack` and open it (VirtualBox should start and suggest installing the extension).
 
 #### Testing Greentea
+
+
+#### Linux user?
+
+Try `virtualbox-dkms` instead of normal `virtualbox` in case of problems.
