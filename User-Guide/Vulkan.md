@@ -8,7 +8,15 @@ This would require Vulkan to be always present, so there should be at least soft
 
 ## Case study
 
-- OpenGL
+- OpenGL over Vulkan
   - [VKGL - Core OpenGL over Vulkan](https://github.com/kbiElude/VKGL)
-- Direct3D 9
+  - [ZINK: OpenGL Over Vulkan](https://gitlab.freedesktop.org/kusma/mesa/commits/zink)
+  - [GLOVE: OpenGL ES Over Vulkan](https://github.com/Think-Silicon/GLOVE)
+  - [ANGLE's WebGL / OpenGL ES Over Vulkan](https://github.com/google/angle/tree/master/src/libANGLE/renderer/vulkan)
+- Direct3D 9 over Vulkan
+  - [VK9](https://github.com/disks86/VK9)
+- Direct3D 9 over Gallium
   - [Gallium Nine Standalone](https://github.com/dhewg/nine)
+- OpenGL over Gallium
+- Vulkan over Metal
+- Vulkan over CPU
