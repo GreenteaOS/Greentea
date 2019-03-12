@@ -92,7 +92,9 @@ ___OS Greentea___ itself is being mostly a [GPL](https://en.wikipedia.org/wiki/G
 
 **If yours country law disallows use of some parts of the project or has another problem, then *DO NOT* USE OR DISTRIBUTE binary builds or source code. Open [issue](https://github.com/GreenteaOS/Greentea/issues) instead!**
 
-**This project is done by a broad variety of people. To discuss legal issues contact [developers directly](https://t.me/greenteaos).**
+This project is done by a broad variety of people. To discuss legal issues contact [developers directly](https://t.me/greenteaos).
+
+:black_flag: We do **not** support piracy, modification of unlicensed copies of Windows, and modifications of Windows that violate it's license agreement.
 
 ## Trademarks
 
