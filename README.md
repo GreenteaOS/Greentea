@@ -14,6 +14,7 @@ Warm and cozy, open-source operating system compatible with apps and games initi
 
 [![Community Links](https://img.shields.io/badge/Community-Links-orange.svg?style=flat)](User-Guide/Community.md)
 [![Nightly Builds](https://img.shields.io/badge/Nightly-Builds-ff69b4.svg?style=flat)](https://ci.appveyor.com/project/PeyTy/kernel-vwmh6/build/artifacts)
+[![Donate](https://img.shields.io/badge/Donate-Thanks!-9a39b9.svg?style=flat)](https://greenteaos.github.io/donate/)
 
 Greentea is an operating system based on open source code. The main idea of the project is to create a compatible environment for the existing software as fast and as qualitatively as possible and provide the user with the best experience with a personal computer.
 
