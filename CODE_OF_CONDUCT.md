@@ -1,5 +1,7 @@
 # Code of Conduct
 
+![Welcome](https://d33wubrfki0l68.cloudfront.net/02962eb19c0069740d16e67b5ba7c613238c8b9a/30ed2/_images/34435689480_2e6f358510_k_d.jpg)
+
 ## 1. Purpose
 
 A primary goal of [GreenteaOS community](https://github.com/GreenteaOS) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
