@@ -18,7 +18,7 @@ Warm and cozy, open-source operating system compatible with apps and games initi
 
 Greentea is an operating system based on open source code. The main idea of the project is to create a compatible environment for the existing software as fast and as qualitatively as possible and provide the user with the best experience with a personal computer.
 
-![Screenshot](Images/screenshot.png?raw=true)
+![Screenshot](Images/screenshot.jpg?raw=true)
 
 ## Wiki
 
@@ -72,7 +72,7 @@ Building, testing and enjoing development:
 
 Latest version may be easily downloaded from our [home page](https://greenteaos.github.io/#download) either with [Torrent](https://www.bittorrent.com/bittorrent-free) or [Telegram](https://telegram.org) free service.
 
-[![Give a star](https://github.com/GreenteaOS/Tofita/raw/master/docs/star.png?raw=true) 
+[![Give a star](https://github.com/GreenteaOS/Tofita/raw/master/docs/star.png?raw=true)
 Give some attention for Greentea and Tofita be noticed and *attract more developers*](https://github.com/GreenteaOS/Tofita/stargazers)
 
 ### BEWARE! DO *NOT* INSTALL ON A PC! USE VIRTUAL MACHINES! GREENTEA IS UNSTABLE SOFTWARE!
