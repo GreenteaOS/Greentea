@@ -4,7 +4,7 @@
 
 #### What is Greentea OS, shortly?
 
-It is a next-generation free operating system able to run your Windows programs.
+It is a next-generation free operating system able to run your Windows programs (.exe files).
 
 #### Is Greentea OS an operating system, distro, visual theme or app?
 
@@ -24,9 +24,9 @@ No. It is an independent OS, without Linux kernel.
 **From developer perspective:** runtimes-based OS, aimed at strict isolation, it has no API to itself from user space.
 To achieve those goals, we created new kernel for it — Tofita.
 
-**From user perspective:** apps cannot break the system or make it slow. System updates are fast and not annoying. 
+**From user perspective:** apps cannot break the system or make it slow. System updates are fast and not annoying.
 
-Being internally very different from common ones, 
+Being internally very different from common ones,
 this system is friendly and does not push "innovations" at you face, thus making you feel at home.
 
 [More info about what makes Greentea so special](https://github.com/GreenteaOS/Greentea/blob/master/README.md#what-makes-greentea-so-special)
