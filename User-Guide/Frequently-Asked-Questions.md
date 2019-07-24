@@ -21,10 +21,10 @@ No. It is an independent OS, without Linux kernel.
 
 #### What makes Greentea OS so unique OS?
 
-**From developer perspective:** runtimes-based OS, aimed at strict isolation, it has no API to itself from user space.
+***From developer perspective:*** runtimes-based OS, aimed at strict isolation, it has no API to itself from user space.
 To achieve those goals, we created new kernel for it — Tofita.
 
-**From user perspective:** apps cannot break the system or make it slow. System updates are fast and not annoying.
+***From user perspective:*** apps cannot break the system or make it slow. System updates are fast and not annoying.
 
 Being internally very different from common ones,
 this system is friendly and does not push "innovations" at you face, thus making you feel at home.
@@ -68,3 +68,17 @@ This is safe and legal in many countries. We cannot, and will not, support non-d
 Greentea builds for comparatively modern hardware only — approximately for most PCs made in the last 10+ years, counting from 2009.
 
 The oldest hardware with possibility to run is 2007 (64-bit CPUs only), but this is not guaranteed.
+
+### Sometimes Greentea definitely looks like a Windows 10 clone...is this intentional?
+
+Ironically, some *independent* design decisions of Greentea team happen to match with Microsoft vision.
+
+For example, blur effect, white theme and large Start menu icons were designed in Greentea *before* Microsoft announcements
+(and features like files and apps isolation, unified Control Panel, etc) or before Greentea developers become aware of them.
+
+Commonly we do **not** look at Windows 10 design (which is meh). We investigate design decisions of macOS, KDE, iOS and Android.
+Probably Microsoft does the same ¯\\_(ツ)_/¯
+
+Note, that the *only* things we try to re-create are a flat look of window frames, sharp user interface edges and
+basics like font & icon sizes (for app compatibility and user experience familiarity).
+And drawing rectangles seems to give better performance than rounded corners, thus we ignore Windows 7 visuals.
