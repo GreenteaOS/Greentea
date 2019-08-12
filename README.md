@@ -6,16 +6,16 @@ Warm and cozy, open-source operating system compatible with existing apps and ga
 <br/><br/>
 
 [![Awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/GreenteaOS/Tofita)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Greentea%20NEWS-blue.svg)](https://telegram.me/greenteaos_news)
-[![Telegram Chatroom](https://img.shields.io/badge/Telegram-Greentea%20ENG-blue.svg)](https://telegram.me/greenteaos)
-[![Join the chat at Gitter!](https://img.shields.io/badge/Gitter-Join%20Chat-47B192.svg)](https://gitter.im/GreenteaOS/Lobby)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Greentea%20NEWS-blue.svg?logo=Telegram)](https://telegram.me/greenteaos_news)
+[![Telegram Chatroom](https://img.shields.io/badge/Telegram-Greentea%20ENG-blue.svg?logo=Telegram)](https://telegram.me/greenteaos)
+[![Join the chat at Gitter!](https://img.shields.io/badge/Gitter-Join%20Chat-47B192.svg?logo=Gitter)](https://gitter.im/GreenteaOS/Lobby)
 [![GPL License](https://img.shields.io/badge/License-GNU%20LGPLv3-green.svg?style=flat)](https://github.com/GreenteaOS/Greentea#license)
-[![GitHub Feed](https://img.shields.io/badge/GitHub-Feed-0f9d58.svg?style=flat)](https://t.me/greenteaos_github)
+[![GitHub Feed](https://img.shields.io/badge/GitHub-Feed-0f9d58.svg?style=flat&logo=GitHub)](https://t.me/greenteaos_github)
 
 [![Community Links](https://img.shields.io/badge/Community-Links-orange.svg?style=flat)](User-Guide/Community.md)
 [![Nightly Builds](https://img.shields.io/badge/Nightly-Builds-ff69b4.svg?style=flat)](https://ci.appveyor.com/project/PeyTy/kernel-vwmh6/build/artifacts)
-[![Donate](https://img.shields.io/badge/Donate-Thanks!-bb3bbb.svg?style=flat)](https://greenteaos.github.io/donate/)
-[![Discord](https://img.shields.io/badge/Discord-join-758EDC.svg?logo=discord)](https://discord.gg/UGZq8GB)
+[![Donate](https://img.shields.io/badge/Donate-Thanks!-bb3bbb.svg?style=flat&logo=Patreon)](https://greenteaos.github.io/donate/)
+[![Discord](https://img.shields.io/badge/Discord-Join-758EDC.svg?logo=discord)](https://discord.gg/UGZq8GB)
 
 Greentea is an operating system based on open source code. The main idea of the project is to create a compatible environment for the existing software as fast and as qualitatively as possible and provide the user with the best experience with a personal computer.
 
