@@ -2,7 +2,7 @@
 
 Git — source control system, repository — source code storage, GitHub — repository hosting.
 
-First of all, it is recommended to download [*applications*](../english/Developer-Guide/Must-Have.md#git-and-github-integration) able to **conveniently** work with Git.
+First of all, it is recommended to download [*applications*](https://github.com/GreenteaOS/Greentea/blob/master/Developer-Guide/Must-Have.md#git-and-github-integration) able to **conveniently** work with Git.
 
 They learn how to commit individual lines of code instead of entire files and [the principle of small commits](https://wiki.mozilla.org/EngineeringProductivity/Projects/Conduit#Microcommits) ([another article about microcommits](https://theworstprogrammerever.com/post/microcommits/)).
 
