@@ -7,4 +7,4 @@ Follow those links:
 * :sunrise: [How to contribute a Pull Request (PR or patch)](Developer-Guide/Create-Pull-Request.md)
 * :octocat: [Using Git and GitHub](Developer-Guide/Git-and-GitHub.md)
 * :card_file_box: [Repositories distinction](Developer-Guide/Repos.md)
-* :peace_symbol: [Code of conduct](CODE_OF_CONDUCT.md)
+* :peace_symbol: [Code of conduct](https://github.com/GreenteaOS/.github/blob/master/CODE_OF_CONDUCT.md)

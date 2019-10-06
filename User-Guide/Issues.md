@@ -46,4 +46,4 @@ Click on the commit hash, for example [e1b5d02](https://github.com/GreenteaOS/Gr
 
 See also:
 
-* :peace_symbol: [Code of conduct](../CODE_OF_CONDUCT.md)
+* :peace_symbol: [Code of conduct](https://github.com/GreenteaOS/.github/blob/master/CODE_OF_CONDUCT.md)

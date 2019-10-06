@@ -34,7 +34,7 @@ Content rating [0+](https://en.wikipedia.org/wiki/Motion_picture_content_rating_
 * :book: [How to edit wiki-pages](User-Guide/Wiki-How.md)
 * :cd: [How to download the latest version of the system](User-Guide/Download-Latest.md)
 * :desktop_computer: [How to install the system on your computer](User-Guide/Installation.md)
-* :peace_symbol: [Code of conduct](CODE_OF_CONDUCT.md)
+* :peace_symbol: [Code of conduct](https://github.com/GreenteaOS/.github/blob/master/CODE_OF_CONDUCT.md)
 
 ### Developer and contributor guide
 
