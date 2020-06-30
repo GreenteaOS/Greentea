@@ -41,7 +41,13 @@ We don't provide public builds yet, only for developers and testers.
 
 #### How can I test it?
 
-Check our [Telegram group](https://t.me/greenteaos).
+Check our [Telegram group](https://t.me/greenteaos) and ask for builds or [download manually](https://ci.appveyor.com/project/PeyTy/tofita/build/artifacts).
+
+#### Why not use ReactOS kernel?
+
+There is evidence, that ReactOS kernel code was "written" mostly by direct disassembly which is illegal per Windows EULA.
+
+Using their kernel code is basically same as using pirated Windows copy. Of course, not all code is written like this and some may be reused.
 
 #### As Microsoft bought GitHub, is it safe to host this project there?
 
