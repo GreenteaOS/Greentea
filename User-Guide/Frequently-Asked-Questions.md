@@ -19,7 +19,7 @@ Nope. Greentea is funded solely by [donations](https://greenteaos.github.io/dona
 
 No. It is an independent OS, without Linux kernel.
 
-#### What makes Greentea OS so unique OS?
+#### What makes Greentea OS so unique?
 
 ***From developer perspective:*** runtimes-based OS, aimed at strict isolation, it has no API to itself from user space.
 To achieve those goals, we created new kernel for it — Tofita.
@@ -30,6 +30,10 @@ Being internally very different from common ones,
 this system is friendly and does not push "innovations" at you face, thus making you feel at home.
 
 [More info about what makes Greentea so special](https://github.com/GreenteaOS/Greentea/blob/master/README.md#what-makes-greentea-so-special)
+
+#### How to track the progress in real time?
+
+Visit [our Trello board](https://trello.com/b/zIHcmPnB) and check commits history of GitHub repos.
 
 #### What is Tofita?
 
@@ -42,12 +46,6 @@ We don't provide public builds yet, only for developers and testers.
 #### How can I test it?
 
 Check our [Telegram group](https://t.me/greenteaos) and ask for builds or [download manually](https://ci.appveyor.com/project/PeyTy/tofita/build/artifacts).
-
-#### Why not use ReactOS kernel?
-
-There is evidence, that ReactOS kernel code was "written" mostly by direct disassembly which is illegal per Windows EULA.
-
-Using their kernel code is basically same as using pirated Windows copy. Of course, not all code is written like this and some may be reused.
 
 #### As Microsoft bought GitHub, is it safe to host this project there?
 
