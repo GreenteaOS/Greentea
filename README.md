@@ -96,10 +96,4 @@ ___OS Greentea___ itself is being mostly a [GPL](https://en.wikipedia.org/wiki/G
 
 This project is done by a broad variety of people. To discuss legal issues contact [developers directly](https://t.me/greenteaos).
 
-:black_flag: We do **not** support piracy, modification of unlicensed copies of Windows, and modifications of Windows that violate it's license agreement.
-
-## Trademarks
-
-Microsoft, Windows, and the Windows logo are trademarks, or registered trademarks of Microsoft Corporation in the United States and/or other countries.
-
-Other names and brands may be claimed as the property of others.
+:black_flag: We do **not** support piracy, modification of unlicensed copies, and modifications that violate license agreements.

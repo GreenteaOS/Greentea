@@ -23,10 +23,7 @@ assignees: ''
 
 ### ...and of course I know it better, because I am...
 
-- [ ] ...Windows 10 user
-- [ ] ...Windows 7 user
-- [ ] ...Windows XP user
-- [ ] ...Windows Vista/RT/8/8.1/96/98/2000/etc user
+- [ ] ...PC/desktop user
 - [ ] ...macOS user
 - [ ] ...GNU/Linux user
 - [ ] ...Android user

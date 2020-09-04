@@ -19,8 +19,8 @@ The main idea of the project is to quickly and efficiently create a compatible e
  * [ ] [New kernel in Hexa](../User-Guide/Hexa.md)
  * [ ] Stable memory manager
  * [ ] GUI for OS installer instead of DOS terminal session
- * [ ] [Moving from FAT to journaling filesystem (NTFS ok for external drives, but not for root, BTRFS/EXT4 are very Linux specific)](../User-Guide/Greentea-FS.md)
  * [ ] LiveCD/USB
+ * [ ] [Moving from FAT to journaling filesystem (FAT ok for external drives, but not for root, BTRFS/EXT4 are very Linux specific)](../User-Guide/Greentea-FS.md)
  * [ ] Stable networking
  * [ ] Initial .exe support
  * [ ] Full .exe support
@@ -50,7 +50,7 @@ Features, like ARM support, aren't really useful in any real manner *right now*,
 Features, like LPT printing, has so small applicability (LPT ports in 2018 anyone?),
 so can't be considered in any manner real target for Greentea OS team and use case for our users.
 Also, multiply that by a *enormous* number of bugs, hacks and workarounds, which we should fix now,
-to at least make kernel non-academic project! And then improve the NT and WinAPI implementations, **the real things**.
+to at least make kernel non-academic project! And then improve implementations, **the real things**.
 Otherwise it is a waste of time.
 
 ---
@@ -61,5 +61,5 @@ Features are highly dependent of Kernel API version.
 Also, the ecosystem defines it's own distribution rules.
 For example: while it *is* possible to run Vulkan API over virtually any (even 20 years old) operating system,
 no hardware or middleware (LunarG) distributors actually did it.
-Some features also, like native Wi-Fi or BLE support, were non-existent on old versions of NT.
+Some features also, like native Wi-Fi or BLE support, were non-existent on old versions.
 So we need to declare timings and dependencies for each feature.

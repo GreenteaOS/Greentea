@@ -4,11 +4,11 @@
 
 #### What is Greentea OS, shortly?
 
-It is a next-generation free operating system able to run your Windows programs (.exe files).
+Greentea is a free next-generation operating system for your PC
 
 #### Is Greentea OS an operating system, distro, visual theme or app?
 
-Similiar to macOS and Windows, Greentea is a full operating system, installable on a PC. It runs apps, games and has some built-in software.
+Similiar to macOS and Linux, Greentea is a full operating system, installable on a PC. It runs apps, games and has some built-in software.
 It is **not** based on any other system.
 
 #### Is Greentea OS Ad-driven or funded by corporations?
@@ -43,13 +43,7 @@ We don't provide public builds yet, only for developers and testers.
 
 Check our [Telegram group](https://t.me/greenteaos) and ask for builds or [download manually](https://ci.appveyor.com/project/PeyTy/tofita/build/artifacts).
 
-#### Why not use ReactOS kernel?
-
-There is evidence, that ReactOS kernel code was "written" mostly by direct disassembly which is illegal per Windows EULA.
-
-Using their kernel code is basically same as using pirated Windows copy. Of course, not all code is written like this and some may be reused.
-
-#### As Microsoft bought GitHub, is it safe to host this project there?
+#### Is it safe to host this project on GitHub?
 
 Yes. Git is a system, on which GitHub is based, used to store and operate on project's source code.
 
@@ -57,34 +51,26 @@ Git is **distributed**, **decentralized** and **consistent**. It is **not** poss
 
 There is no reason to worry about.
 
-#### I've seen fake commits like [this one](https://github.com/reactos/reactos/blob/59b78b4756da02e275e35bd40a27962d5a759b69/ntoskrnl/ke/i386/exp.c#L803-L804). Are fake commits a thing?
+#### I've seen some "fake" commits. Are fake commits a thing?
 
 Sadly, GitHub, as any other service, has small bugs in it. The bug may **visualize** fake commits, but fakes cannot be committed into project itself! So no real code touched, albeit it looks "hacked". Also, Git, as a system, allows to set arbitrary committer names, so they sould not be considered 100% real without "Verified" badge on them.
 
 That being said, you should not follow misleading information with fake links.
 
-#### What Windows compatibility is going to be supported?
+#### What application compatibility is going to be supported?
 
-We support only officially deprecated Windows versions — [currently Windows 7](https://www.microsoft.com/en-us/windowsforbusiness/end-of-windows-7-support)
+We support only classic-style APIs.
 
-This is safe and legal in many countries. We cannot, and will not, support non-deprecated Windows versions.
-
-#### Is Greentea made specifically for old hardware?
+#### Is Greentea made specifically for modern hardware?
 
 Greentea builds for comparatively modern hardware only — approximately for most PCs made in the last 10+ years, counting from 2009.
 
 The oldest hardware with possibility to run is 2007 (64-bit CPUs only), but this is not guaranteed.
 
-### Sometimes Greentea definitely looks like a Windows 10 clone...is this intentional?
+### Sometimes Greentea definitely looks familiar...is this intentional?
 
-Ironically, some *independent* design decisions of Greentea team happen to match with Microsoft vision.
+We investigate design decisions of Linux and Android.
 
-For example, blur effect, white theme and large Start menu icons were designed in Greentea *before* Microsoft announcements
-(and features like files and apps isolation, unified Control Panel, etc) or before Greentea developers become aware of them.
-
-Commonly we do **not** look at Windows 10 design (which is meh). We investigate design decisions of macOS, KDE, iOS and Android.
-Probably Microsoft does the same ¯\\_(ツ)_/¯
-
-Note, that the *only* things we try to re-create are a flat look of window frames, sharp user interface edges and
+Note, that the *only* desktop things we try to keep are a flat look of window frames, sharp user interface edges and
 basics like font & icon sizes (for app compatibility and user experience familiarity).
-And drawing rectangles seems to give better performance than rounded corners, thus we ignore Windows 7 visuals.
+And drawing rectangles seems to give better performance than rounded corners.
