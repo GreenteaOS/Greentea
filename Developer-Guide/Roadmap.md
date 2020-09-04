@@ -6,10 +6,10 @@ The main idea of the project is to quickly and efficiently create a compatible e
 
 * CPU
  * [x] BIOS boot
- * [ ] [x86-64-only mode (**dropping x86-32**)](x64.md)
+ * [x] [x86-64-only mode (**dropping x86-32**)](x64.md)
  * [ ] Multicore HAL and scheduler
- * [ ] UEFI boot
- * [ ] USB boot fixes
+ * [x] UEFI boot
+ * [x] USB boot fixes
 * GPU
  * [ ] [Software Vulkan](../User-Guide/Vulkan.md)
  * [ ] Hardware Vulkan
@@ -17,18 +17,18 @@ The main idea of the project is to quickly and efficiently create a compatible e
  * [ ] D3D over Vulkan
 * Kernel
  * [ ] [New kernel in Hexa](../User-Guide/Hexa.md)
- * [ ] Stable memory manager
+ * [x] Stable memory manager
  * [ ] GUI for OS installer instead of DOS terminal session
- * [ ] LiveCD/USB
  * [ ] [Moving from FAT to journaling filesystem (FAT ok for external drives, but not for root, BTRFS/EXT4 are very Linux specific)](../User-Guide/Greentea-FS.md)
+ * [x] LiveCD/USB
  * [ ] Stable networking
- * [ ] Initial .exe support
+ * [x] Initial .exe support
  * [ ] Full .exe support
  * [ ] Linux subsystem (only software)
  * [ ] Android subsystem (based on Linux's, only software)
  * [ ] [Easy system updates](../User-Guide/Rolling.md)
 * Visuals
- * [ ] New default theming and visuals
+ * [x] New default theming and visuals
  * [ ] Fix theming engine
  * [ ] [New HTML5-alike theming engine and toolkit](../User-Guide/Web.md)
  * [ ] Overhaul of theming engine (GPU-accelerated, shadows, blurs, effects)
