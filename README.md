@@ -73,7 +73,7 @@ Building, testing and enjoing development:
 
 Latest version may be easily downloaded from our [home page](https://greenteaos.github.io/#download) either with [Torrent](https://www.bittorrent.com/bittorrent-free) or [Telegram](https://telegram.org) free service.
 
-[![Give a star](https://github.com/GreenteaOS/Tofita/raw/master/docs/star.png?raw=true)
+[![Give a star](https://github.com/GreenteaOS/Tofita/raw/kawaii/docs/star.png?raw=true)
 Give some attention for Greentea and Tofita be noticed and *attract more developers*](https://github.com/GreenteaOS/Tofita/stargazers)
 
 ### BEWARE! DO *NOT* INSTALL ON A PC! USE VIRTUAL MACHINES! GREENTEA IS UNSTABLE SOFTWARE!
