@@ -33,7 +33,7 @@ this system is friendly and does not push "innovations" at you face, thus making
 
 #### How to track the progress in real time?
 
-Visit [our Trello board](https://trello.com/b/zIHcmPnB) and check commits history of GitHub repos.
+Visit [our Telegram news channel](https://t.me/s/greenteaos_news) and check [commits history of GitHub repos](https://t.me/s/greenteaos_github).
 
 #### What is Tofita?
 
@@ -41,7 +41,7 @@ Visit [our Trello board](https://trello.com/b/zIHcmPnB) and check commits histor
 
 #### Where I may download it?
 
-We don't provide public builds yet, only for developers and testers.
+Find public builds for users and testers at [Greentea official downloads channel](https://t.me/s/greenteaos_official).
 
 #### How can I test it?
 
