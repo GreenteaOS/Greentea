@@ -46,6 +46,7 @@ Building, testing and enjoing development:
 * :gear: [Recommended tools](Developer-Guide/Must-Have.md)
 * :dart: [Roadmap and goals](Developer-Guide/Roadmap.md)
 * :sunrise: [How to contribute a Pull Request (PR or patch)](Developer-Guide/Create-Pull-Request.md)
+* :game_die: [Notes on CPU compatibility](Developer-Guide/CPUID.md)
 * :six::four: [x86-64/AMD64 support](Developer-Guide/x64.md)
 * :building_construction: [Continuous integration and nightly builds](Developer-Guide/CI.md)
 * :speaking_head: [Translation and localization](Developer-Guide/Localization.md)
