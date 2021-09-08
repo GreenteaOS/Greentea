@@ -16,13 +16,13 @@ Greentea OS targets CPUs **at least** from Q3 2011 and newer
 - `ACPI 2.0` required by Tofita
 - `SSE4.1` wide support since 2011 (CPU with SSE4.1 will have SSE3 and SSSE3)
 - `SSSE3` wide support since 2011
-- `AVX` wide support since 2011 (except Atoms)
 - `SSE4.2` wide support since 2011
 
 Optional features:
 
 - `1 GB` huge pages (aka `PDPE1GB`) wide support since 2010 and used as optimization
 - `x2APIC` is optional on AMD and **used** by Greentea if present
+- `AVX` wide support since 2011 (except *all* Atoms, some modern Pentiums & Celerons, old Xeons)
 
 Not required features:
 
