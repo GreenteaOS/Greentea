@@ -20,7 +20,7 @@ Greentea OS targets CPUs **at least** from Q3 2011 and newer
 
 Optional features:
 
-- `1 GB` huge pages (aka `PDPE1GB`) wide support since 2010 and used as optimization
+- `1 GB` huge pages (aka `PDPE1GB`) wide support since 2012 and used as optimization
 - `x2APIC` is optional on AMD and **used** by Greentea if present
 - `AVX` wide support since 2011 (except *all* Atoms, some modern Pentiums & Celerons, old Xeons)
 
