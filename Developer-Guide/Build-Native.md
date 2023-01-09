@@ -12,7 +12,7 @@
 
 #### Installing the Build Environment
 
-* Download :fire: Flame :fire: by [direct link](https://github.com/GreenteaOS/Flame/archive/master.zip) or [on the repository page](https://github.com/GreenteaOS/Flame)
+* Download :fire: Flame :fire: by [direct link](https://github.com/GreenteaOS/Flame/archive/kawaii.zip) or [on the repository page](https://github.com/GreenteaOS/Flame)
 * Unpack to the recommended path `C:\Flame` or edit `environment.cmd` parameter `TOOLS` when unpacking to a non-standard path
 * You should get the folder `C:\Flame` with file `version.txt` (archive version) and the rest (but not nested `C:\Flame\Flame`!)
 
