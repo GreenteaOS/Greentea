@@ -4,31 +4,13 @@ on:
   push:
     branches:
       - '**'
-    paths:
-      - '.github/workflows/**'
-      - 'assets/**'
-      - 'boot/**'
-      - 'build/**'
-      - 'devices/**'
-      - 'dlls/**'
-      - 'kernel/**'
-      - 'tools/**'
-      - 'config.json'
-      - 'hexa.json'
+    paths-ignore:
+      - '**.md'
   pull_request:
     branches:
       - '**'
-    paths:
-      - '.github/workflows/**'
-      - 'assets/**'
-      - 'boot/**'
-      - 'build/**'
-      - 'devices/**'
-      - 'dlls/**'
-      - 'kernel/**'
-      - 'tools/**'
-      - 'config.json'
-      - 'hexa.json'
+    paths-ignore:
+      - '**.md'
 
 defaults:
   run:
@@ -61,7 +43,7 @@ jobs:
 
       - name: Get assets
         run: |
-          git clone --depth 1 https://github.com/GreenteaOS/Greentea.git ../Greentea
+          git clone --depth 1 https://github.com/GreenteaOS/Tofita.git ../Tofita
           git clone --depth 1 https://github.com/GreenteaOS/Tongue.git ../Tongue
 
       - name: Prepare Hexa
@@ -72,6 +54,7 @@ jobs:
 
       - name: Build Tofita
         run: |
+          cd ../Tofita
           $env:Path += ";.\..\Hexa"
           $ErrorActionPreference = 'SilentlyContinue'
           cmd.exe /c 'build.bat'
