@@ -38,3 +38,7 @@ $RECYCLE.BIN/
 .directory
 # Trash folder which might appear on any partition or disk
 .Trash-*
+
+# Include
+!Assets
+!Assets/**/*.*
