@@ -97,3 +97,9 @@ ___OS Greentea___ itself is being mostly a [GPL](https://en.wikipedia.org/wiki/G
 This project is done by a broad variety of people. To discuss legal issues contact [developers directly](https://t.me/greenteaos).
 
 :black_flag: We do **not** support piracy, modification of unlicensed copies, and modifications that violate license agreements.
+
+## License of the binary materials (icons, wallpapers, etc)
+
+Original content is under CC0 license
+
+When contributing your own content, you're implicitly agrreing to share it under CC0 too
