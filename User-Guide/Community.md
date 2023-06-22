@@ -1,1 +1,1 @@
-Moved to https://greenteaos.github.io/wiki/community.html
+Moved to https://t.me/greenteaos_news/48
