@@ -13,28 +13,28 @@ The main idea of the project is to quickly and efficiently create a compatible e
 * GPU
  * [ ] [Software Vulkan](../User-Guide/Vulkan.md)
  * [ ] Hardware Vulkan
- * [ ] OpenGL over Vulkan
- * [ ] D3D over Vulkan
+ * [ ] OpenGL
+ * [ ] D3D
 * Kernel
- * [ ] [New kernel in Hexa](../User-Guide/Hexa.md)
+ * [x] [New kernel in Hexa](../User-Guide/Hexa.md)
  * [x] Stable memory manager
- * [ ] GUI for OS installer instead of DOS terminal session
- * [ ] [Moving from FAT to journaling filesystem (FAT ok for external drives, but not for root, BTRFS/EXT4 are very Linux specific)](../User-Guide/Greentea-FS.md)
+ * [ ] GUI for OS installer
+ * [ ] [Moving to a journaling filesystem](../User-Guide/Greentea-FS.md)
  * [x] LiveCD/USB
  * [ ] Stable networking
  * [x] Initial .exe support
  * [ ] Full .exe support
  * [ ] Linux subsystem (only software)
- * [ ] Android subsystem (based on Linux's, only software)
+ * [ ] Android subsystem
  * [ ] [Easy system updates](../User-Guide/Rolling.md)
 * Visuals
  * [x] New default theming and visuals
- * [ ] Fix theming engine
+ * [ ] Theming engine
  * [ ] [New HTML5-alike theming engine and toolkit](../User-Guide/Web.md)
  * [ ] Overhaul of theming engine (GPU-accelerated, shadows, blurs, effects)
 * Shell and UI
- * [ ] Initial implementations of shell, tray, explorer, start button and others
- * [ ] Greentea widgets and GUI elements
+ * [x] Initial implementations of shell, tray, explorer, start button and others
+ * [x] Greentea widgets and GUI elements
  * [ ] Stabilization of shell, tray, explorer, start button and others
  * [ ] [Shell overhaul to add modern features and look](../User-Guide/Control-Panel.md)
  * [ ] Customizable themes and widgets
@@ -47,6 +47,9 @@ The main idea of the project is to quickly and efficiently create a compatible e
 This project started as a controversy to undefined future (and past) of existing operating systems.
 Our team decided to define precise list of *the most useful* features to the wide audiences.
 Features, like ARM support, aren't really useful in any real manner *right now*, as already showed by other vendors.
+
+**Update from 2023:** seems like M1 CPUs finally make ARM support valuable?
+
 Features, like LPT printing, has so small applicability (LPT ports in 2018 anyone?),
 so can't be considered in any manner real target for Greentea OS team and use case for our users.
 Also, multiply that by a *enormous* number of bugs, hacks and workarounds, which we should fix now,
