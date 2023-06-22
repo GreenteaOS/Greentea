@@ -1,20 +1,20 @@
-[<img align="left" width="128px" height="128px" src="https://avatars0.githubusercontent.com/u/19654552" />](https://greenteaos.github.io)
+[<img align="left" width="186px" height="128px" src="https://raw.githubusercontent.com/GreenteaOS/.github/kawaii/profile/logo_white_leaves.png" />](https://greenteaos.github.io)
 
 ## Greentea Operating System
 
 Warm and cozy, open-source operating system compatible with existing apps and games
 <br/><br/>
 
-[![Awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/GreenteaOS/Tofita)
+[![Awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://www.youtube.com/channel/UChcz5b20vDOk4ERoPs-pCbw/featured)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Greentea%20NEWS-blue.svg?logo=Telegram)](https://telegram.me/greenteaos_news)
-[![Telegram Chatroom](https://img.shields.io/badge/Telegram-Greentea%20ENG-blue.svg?logo=Telegram)](https://telegram.me/greenteaos)
-[![Join the chat at Gitter!](https://img.shields.io/badge/Gitter-Join%20Chat-47B192.svg?logo=Gitter)](https://gitter.im/GreenteaOS/Lobby)
+[![Telegram Chatroom](https://img.shields.io/badge/Telegram-Greentea%20CHAT-blue.svg?logo=Telegram)](https://telegram.me/greenteaos)
 [![GPL License](https://img.shields.io/badge/License-GNU%20LGPLv3-green.svg?style=flat)](https://github.com/GreenteaOS/Greentea#license)
 [![GitHub Feed](https://img.shields.io/badge/GitHub-Feed-0f9d58.svg?style=flat&logo=GitHub)](https://t.me/greenteaos_github)
 
 [![Community Links](https://img.shields.io/badge/Community-Links-orange.svg?style=flat)](User-Guide/Community.md)
-[![Nightly Builds](https://img.shields.io/badge/Nightly-Builds-ff69b4.svg?style=flat)](https://ci.appveyor.com/project/PeyTy/kernel-vwmh6/build/artifacts)
-[![Donate](https://img.shields.io/badge/Donate-Thanks!-bb3bbb.svg?style=flat&logo=Patreon)](https://greenteaos.github.io/donate/)
+[![Nightly Builds](https://img.shields.io/badge/Automated-Builds-ff69b4.svg?style=flat)](https://ci.appveyor.com/project/PeyTy/kernel-vwmh6/build/artifacts)
+[![Donate](https://img.shields.io/badge/Sponsor-Patreon-bb3bbb.svg?style=flat&logo=Patreon)](https://greenteaos.github.io/donate/)
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-bb3bbb.svg?style=flat&logo=Patreon)](https://github.com/sponsors/PeyTy)
 [![Discord](https://img.shields.io/badge/Discord-Join-758EDC.svg?logo=discord)](https://discord.gg/UGZq8GB)
 
 Greentea is an operating system based on open source code. The main idea of the project is to create a compatible environment for the existing software as fast and as qualitatively as possible and provide the user with the best experience with a personal computer.
@@ -23,9 +23,8 @@ Greentea is an operating system based on open source code. The main idea of the 
 
 ## Wiki
 
-<a href="https://octodex.github.com"><img alt="https://octodex.github.com" src="https://cloud.githubusercontent.com/assets/3642643/17365226/9a2ee7b2-598d-11e6-8adb-42271309c3e0.png" width="256"></a>
-
-Content rating [0+](https://en.wikipedia.org/wiki/Motion_picture_content_rating_system)
+[![Give a star](https://github.com/GreenteaOS/Tofita/raw/kawaii/docs/star.png?raw=true)
+Give some attention for Greentea OS be noticed and *attract more developers*, thank you!](https://github.com/GreenteaOS/Greentea/stargazers)
 
 ### User guide
 
@@ -38,10 +37,9 @@ Content rating [0+](https://en.wikipedia.org/wiki/Motion_picture_content_rating_
 
 ### Developer and contributor guide
 
-Building, testing and enjoing development:
+Building, testing and enjoing the development process:
 
-* :hammer_and_wrench: [Build whole system](Developer-Guide/Build-Native.md)
-* :penguin: [Build within Ubuntu, macOS, and other Linux/BSD/unix-like systems](Developer-Guide/Build-Wine.md)
+* :hammer_and_wrench: [Build whole system](https://github.com/GreenteaOS/Tofita#build)
 * :package: [Running in VirtualBox](Developer-Guide/VirtualBox-Config.md)
 * :gear: [Recommended tools](Developer-Guide/Must-Have.md)
 * :dart: [Roadmap and goals](Developer-Guide/Roadmap.md)
@@ -67,16 +65,15 @@ Building, testing and enjoing development:
 * [Hexa programming language](User-Guide/Hexa.md)
 * [Custom build system](User-Guide/Build-System.md)
 
+Content rating [0+](https://en.wikipedia.org/wiki/Motion_picture_content_rating_system)
+
 ## Get Greentea
 
 [<img width="50px" height="50px" src="https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-6/512/Download_downloading_data_storage_folder-128.png" />](https://greenteaos.github.io/#download)
 
 Latest version may be easily downloaded from our [home page](https://greenteaos.github.io/#download) either with [Torrent](https://www.bittorrent.com/bittorrent-free) or [Telegram](https://telegram.org) free service.
 
-[![Give a star](https://github.com/GreenteaOS/Tofita/raw/kawaii/docs/star.png?raw=true)
-Give some attention for Greentea and Tofita be noticed and *attract more developers*](https://github.com/GreenteaOS/Tofita/stargazers)
-
-### BEWARE! DO *NOT* INSTALL ON A PC! USE VIRTUAL MACHINES! GREENTEA IS UNSTABLE SOFTWARE!
+### DO *NOT* INSTALL ON A PC! USE VIRTUAL MACHINES! GREENTEA OS IS UNSTABLE RIGHT NOW!
 
 ## Issues and Proposals
 
