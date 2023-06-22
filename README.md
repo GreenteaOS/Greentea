@@ -6,18 +6,17 @@ Warm and cozy, open-source operating system compatible with existing apps and ga
 <br/><br/>
 
 [![Awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://www.youtube.com/channel/UChcz5b20vDOk4ERoPs-pCbw/featured)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Greentea%20NEWS-blue.svg?logo=Telegram)](https://telegram.me/greenteaos_news)
-[![Telegram Chatroom](https://img.shields.io/badge/Telegram-Greentea%20CHAT-blue.svg?logo=Telegram)](https://telegram.me/greenteaos)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Greentea%20OS%20NEWS-blue.svg?logo=Telegram)](https://telegram.me/greenteaos_news)
+[![Telegram Chatroom](https://img.shields.io/badge/Telegram-Greentea%20OS%20CHAT-blue.svg?logo=Telegram)](https://telegram.me/greenteaos)
 [![GPL License](https://img.shields.io/badge/License-GNU%20LGPLv3-green.svg?style=flat)](https://github.com/GreenteaOS/Greentea#license)
-[![GitHub Feed](https://img.shields.io/badge/GitHub-Feed-0f9d58.svg?style=flat&logo=GitHub)](https://t.me/greenteaos_github)
 
-[![Community Links](https://img.shields.io/badge/Community-Links-orange.svg?style=flat)](User-Guide/Community.md)
+[![GitHub Feed](https://img.shields.io/badge/GitHub-Feed-0f9d58.svg?style=flat&logo=GitHub)](https://t.me/greenteaos_github)
 [![Nightly Builds](https://img.shields.io/badge/Automated-Builds-ff69b4.svg?style=flat)](https://ci.appveyor.com/project/PeyTy/kernel-vwmh6/build/artifacts)
 [![Donate](https://img.shields.io/badge/Sponsor-Patreon-bb3bbb.svg?style=flat&logo=Patreon)](https://greenteaos.github.io/donate/)
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-bb3bbb.svg?style=flat&logo=Patreon)](https://github.com/sponsors/PeyTy)
 [![Discord](https://img.shields.io/badge/Discord-Join-758EDC.svg?logo=discord)](https://discord.gg/UGZq8GB)
 
-Greentea is an operating system based on open source code. The main idea of the project is to create a compatible environment for the existing software as fast and as qualitatively as possible and provide the user with the best experience with a personal computer.
+Greentea OS is an operating system based on open source code. The main idea of the project is to create a compatible environment for the existing software as fast and as qualitatively as possible and provide the user with the best experience with a personal computer.
 
 ![Screenshot](Images/screenshot.jpg?raw=true)
 
@@ -69,9 +68,15 @@ Content rating [0+](https://en.wikipedia.org/wiki/Motion_picture_content_rating_
 
 ## Get Greentea
 
-[<img width="50px" height="50px" src="https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-6/512/Download_downloading_data_storage_folder-128.png" />](https://greenteaos.github.io/#download)
+<p align="center">
+  <a href="https://greenteaos.github.io/#download">
+    <img width="50px" src="https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-6/512/Download_downloading_data_storage_folder-128.png" />
+  </a>
+</p>
 
-Latest version may be easily downloaded from our [home page](https://greenteaos.github.io/#download) either with [Torrent](https://www.bittorrent.com/bittorrent-free) or [Telegram](https://telegram.org) free service.
+Latest version may be easily downloaded from our [automatic build bot](https://github.com/GreenteaOS/Tofita#automatic-builds).
+
+Some releases may be provided in the [Greentea LOAD](https://t.me/greenteaos_official) official downloads channel.
 
 ### DO *NOT* INSTALL ON A PC! USE VIRTUAL MACHINES! GREENTEA OS IS UNSTABLE RIGHT NOW!
 
@@ -99,4 +104,4 @@ This project is done by a broad variety of people. To discuss legal issues conta
 
 Original content is under CC0 license
 
-When contributing your own content, you're implicitly agrreing to share it under CC0 too
+When contributing your own content, you're implicitly agreeing to share it under CC0 too
