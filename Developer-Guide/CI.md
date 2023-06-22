@@ -17,10 +17,10 @@ Almost every change is built and tested. Thus, it makes it possible to have an e
 yellow (in progress), red (the build failed or contains errors) and green (build successful) colors.
 * You may find the link to the build log at top right corner
 * Not to be confused with the status of merge possibility!
-* Follow the link https://ci.appveyor.com/project/PeyTy/kernel-vwmh6
+* Follow the link https://ci.appveyor.com/project/PeyTy/tofita
 
 #### Where to download a build?
 
 Go to the website of the CI system, select the build of interest, and click on the Artifacts tab.
 
-Official GreenteaOS/Kernel nightly builds take place here https://ci.appveyor.com/project/PeyTy/kernel-vwmh6/build/artifacts
+Official GreenteaOS nightly builds take place here https://ci.appveyor.com/project/PeyTy/tofita/build/artifacts

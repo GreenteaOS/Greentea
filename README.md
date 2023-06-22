@@ -11,7 +11,7 @@ Warm and cozy, open-source operating system compatible with existing apps and ga
 [![GPL License](https://img.shields.io/badge/License-GNU%20LGPLv3-green.svg?style=flat)](https://github.com/GreenteaOS/Greentea#license)
 
 [![GitHub Feed](https://img.shields.io/badge/GitHub-Feed-0f9d58.svg?style=flat&logo=GitHub)](https://t.me/greenteaos_github)
-[![Nightly Builds](https://img.shields.io/badge/Automated-Builds-ff69b4.svg?style=flat)](https://ci.appveyor.com/project/PeyTy/kernel-vwmh6/build/artifacts)
+[![Nightly Builds](https://img.shields.io/badge/Automated-Builds-ff69b4.svg?style=flat)](https://ci.appveyor.com/project/PeyTy/tofita/build/artifacts)
 [![Donate](https://img.shields.io/badge/Sponsor-Patreon-bb3bbb.svg?style=flat&logo=Patreon)](https://greenteaos.github.io/donate/)
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-bb3bbb.svg?style=flat&logo=Patreon)](https://github.com/sponsors/PeyTy)
 [![Discord](https://img.shields.io/badge/Discord-Join-758EDC.svg?logo=discord)](https://discord.gg/UGZq8GB)
