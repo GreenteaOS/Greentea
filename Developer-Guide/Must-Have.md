@@ -14,6 +14,10 @@ Here are the list of recommended useful tools if you're going to debug some Gree
 #### API hooking
 
 - [API Monitor by Rohitab](https://www.rohitab.com/apimonitor) - fantastic software to monitor and control API calls made by applications and services
+- [PE-bear](https://github.com/hasherezade/pe-bear) - provides deep insight into PE file format, most useful for headers, sections and resources investigation
+- [Cutter](https://cutter.re) - convenient disassembler and decompiler
+- [Ghidra](https://github.com/NationalSecurityAgency/ghidra/releases) - ultimate tool for reverse engineering
+
 
 #### Testing UI issues
 
