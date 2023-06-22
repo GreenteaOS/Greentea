@@ -21,19 +21,17 @@ No. It is an independent OS, without Linux kernel.
 
 #### What makes Greentea OS so unique?
 
-***From developer perspective:*** runtimes-based OS, aimed at strict isolation, it has no API to itself from user space.
-To achieve those goals, we created new kernel for it — Tofita.
+***From developer perspective:*** safety-first OS, aimed at strict isolation and code verification.
+To achieve those goals, we created new kernel for it — Tofita, and programming language - Hexa.
 
 ***From user perspective:*** apps cannot break the system or make it slow. System updates are fast and not annoying.
 
 Being internally very different from common ones,
 this system is friendly and does not push "innovations" at you face, thus making you feel at home.
 
-[More info about what makes Greentea so special](https://github.com/GreenteaOS/Greentea/blob/kawaii/README.md#what-makes-greentea-so-special)
-
 #### How to track the progress in real time?
 
-Visit [our Telegram news channel](https://t.me/s/greenteaos_news) and check [commits history of GitHub repos](https://t.me/s/greenteaos_github).
+Visit [our Telegram news channel](https://t.me/s/greenteaos_news) and check [commits feed of GitHub repos](https://t.me/s/greenteaos_github).
 
 #### What is Tofita?
 
@@ -67,13 +65,13 @@ We support only classic-style APIs.
 
 #### Is Greentea made specifically for modern hardware?
 
-Greentea builds for comparatively modern hardware only — approximately for most PCs made in the last 10+ years, counting from 2009.
+Greentea builds for comparatively modern hardware only — approximately for most PCs made in the last 10+ years, counting from 2011.
 
-The oldest hardware with possibility to run is 2007 (64-bit CPUs only), but this is not guaranteed.
+The oldest hardware with possibility to run is 2008 (64-bit CPUs only), but this is not guaranteed and probably requires a patch.
 
 ### Sometimes Greentea definitely looks familiar...is this intentional?
 
-We investigate design decisions of Linux and Android.
+We investigate design decisions of macOS, iOS, Linux and Android.
 
 Note, that the *only* desktop things we try to keep are a flat look of window frames, sharp user interface edges and
 basics like font & icon sizes (for app compatibility and user experience familiarity).
