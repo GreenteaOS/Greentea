@@ -6,7 +6,9 @@ Greentea OS is going to use Vulkan as much as possible: [window composition](htt
 
 This would require Vulkan to be always present, so there should be at least software emulation of that graphics API.
 
-We will also investigate possibility of native D3D implemtnation in the project called NjRAA.
+## NjRAA
+
+We will also investigate possibility of native D3D implementation in the project called [NjRAA](https://github.com/GreenteaOS/NjRAA) aka **Not just Renamed AMD API**.
 
 ## Case study
 
@@ -17,8 +19,9 @@ We will also investigate possibility of native D3D implemtnation in the project 
   - [ANGLE's WebGL / OpenGL ES Over Vulkan](https://github.com/google/angle/tree/master/src/libANGLE/renderer/vulkan)
 - Direct3D 9 over Vulkan
   - [VK9](https://github.com/disks86/VK9)
-- Direct3D 9 over Gallium
+- Direct3D 9/10/11 over Vulkan
+  - [DXVK](https://github.com/doitsujin/dxvk)
+- Direct3D 9/10 over Gallium
   - [Gallium Nine Standalone](https://github.com/dhewg/nine)
-- OpenGL over Gallium
 - Vulkan over Metal
-- Vulkan over CPU
+  - [MoltenVK is a Vulkan Portability implementation](https://github.com/KhronosGroup/MoltenVK)
