@@ -45,6 +45,7 @@ jobs:
         run: |
           git clone --depth 1 https://github.com/GreenteaOS/Tofita.git ../Tofita
           git clone --depth 1 https://github.com/GreenteaOS/Tongue.git ../Tongue
+          git clone --depth 1 https://github.com/GreenteaOS/NjRAA.git ../NjRAA
 
       - name: Prepare Hexa
         run: |
