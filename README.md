@@ -20,6 +20,16 @@ Greentea OS is an operating system based on open source code. The main idea of t
 
 ![Screenshot](Images/screenshot.jpg?raw=true)
 
+## Compatibility Goals
+
+Greentea OS does not limit itself just to running ".exe" files. Overall compatibility goals are:
+
+- GUI and console `.exe` apps
+- NT drivers (in the sandboxes/virtualized environments)
+- Linux ELF executables (in a Docker-like environments)
+- Android `.apk` apps
+- Framework for other platforms emulation
+
 ## Wiki
 
 [![Give a star](https://github.com/GreenteaOS/Tofita/raw/kawaii/docs/star.png?raw=true)
@@ -36,7 +46,7 @@ Give some attention for Greentea OS be noticed and *attract more developers*, th
 
 ### Developer and contributor guide
 
-Building, testing and enjoing the development process:
+Building, testing and enjoying the development process:
 
 * :hammer_and_wrench: [Build whole system](https://github.com/GreenteaOS/Tofita#build)
 * :package: [Running in VirtualBox](Developer-Guide/VirtualBox-Config.md)
@@ -82,7 +92,7 @@ Some releases may be provided in the [Greentea LOAD](https://t.me/greenteaos_off
 
 ## Issues and Proposals
 
-Visit out [Issues](https://github.com/GreenteaOS/Greentea/issues) section to dive into development process! You are free to read and share anything important (well, actually bugs), but talking in chatrooms is in prefer.
+Visit out [Issues](https://github.com/GreenteaOS/Greentea/issues) section to dive into development process! You are free to read and share anything important (well, actually bugs), but talking in chat rooms is in prefer.
 
 ## Kernel
 
